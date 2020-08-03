@@ -1,0 +1,5 @@
+name,age
+Nagaraju,10
+Gajula,30
+Ramu,40
+Smitha,20
